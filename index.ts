@@ -34,6 +34,10 @@ const bookDos: Book = {
 printInfo(bookUno)
 printInfo(bookDos)
 
+function main(){
+  console.log("Hola soy un cambio")
+}
+
 // Typescript
 //Escribimos un archivo con extension .ts para que el editor nos ayude con la sitaxis
 // Debemos instalar typescript en nuestro proyecto o de manera global en la pc para poder
