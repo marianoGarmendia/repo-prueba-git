@@ -36,6 +36,7 @@ printInfo(bookDos)
 
 function main(){
   console.log("Hola soy un cambio")
+  console.log("Hola soy otro cambio desde otra pc")
 }
 
 // Typescript
