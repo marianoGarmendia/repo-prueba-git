@@ -15,7 +15,7 @@ const alumno :Persona = {
     
 }
 
-function printInfo(student:Persona){
+function printInfoDos(student:Persona){
 console.log(`Nombre: ${student.nombre}`)
 console.log(`Edad: ${student.age}`)
 console.log(`Email: ${student.email}`)
@@ -23,7 +23,7 @@ console.log(`Alumno activo: ${student.student}`)
 }
 
 
-function main(){
-    printInfo(alumno)
+function mainDos(){
+    printInfoDos(alumno)
 }
-main()
+mainDos()

@@ -23,6 +23,7 @@ printInfo(bookUno);
 printInfo(bookDos);
 function main() {
     console.log("Hola soy un cambio");
+    console.log("Hola soy otro cambio desde otra pc");
 }
 // Typescript
 //Escribimos un archivo con extension .ts para que el editor nos ayude con la sitaxis
