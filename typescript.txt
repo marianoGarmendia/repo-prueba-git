@@ -1,0 +1,7 @@
+Declarando un array de strings
+
+let nombres: strings[]
+
+declarando un array de objetos
+
+let personas: {nombre: string, edad: number}[]
